@@ -1,1 +1,1 @@
-web: node MainBot.js
+web: node Hades.js
